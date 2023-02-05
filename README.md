@@ -1,2 +1,2 @@
-# Sentimental_Analysis
-Predict the sentimental of customers review using naive bayes classifer
+# Sentiment-Analysis
+predict the sentiment of customers review using Naive Bayes Classifer 
